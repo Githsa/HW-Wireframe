@@ -1,73 +1,112 @@
-body {
-   width: 960px;
-   height: 768px;
-   background-color:#777;
-   text-align: center;
+ body {
 
-
-}
-
-header {
-	background-color: #ebebeb;
-	padding:30px;
-	margin-bottom: 10px;
-	width: 800px;
-}
-
-nav {
-	background-color: #ebebeb;
-	padding:30px;
-	margin-bottom: 10px;
-	width: 800px;
-}
+	background-color: #777;
 	
- 
+	margin:auto;
+	
 
-#section {
-     background-color: #ebebeb;
+}
+
+
+.header {
+
+	 background-color: #ebebeb;
+	 color:#777;
+	 text-align: center;
+	 font-family:  Arial, Helvetica , sans-serif;
+     padding:25px;
+     margin-top:10px;
+     margin-left:150px;
+     width:980px;
+
+}   
+
+.nav {
+
+	 background-color: #ebebeb;
+	 color:#777;
+	 text-align: center;
+	 font-family:  Arial, Helvetica , sans-serif;
+     padding:25px;
+     margin-top:10px;
+     margin-left: 150px;
+     width:980px;
+
+}   
+
+.section {
+
+	 background-color: #ebebeb;
+	 color:#777;
+	 text-align: center;
+	 font-family:  Arial, Helvetica , sans-serif;
+     padding:10px;
+     margin-top:20px;
+     margin-left: 150px;
+     width:540px;
+     height:260px;
      float:left;
+
+}   
+
+.aside {
+
+	 background-color: #ebebeb;
+	 color:#777;
+	 text-align: center;
+	 font-family:  Arial, Helvetica , sans-serif;
+     padding:25px;
+     margin-top:20px;
+     margin-left: 20px;
      width:400px;
-     height:250px;
-     margin-right: 10px;
+     height:230px;
+     float:left;
+
+}   
+
+.footer {
+
+	 background-color: #ebebeb;
+	 color:#777;
+	 text-align: center;
+	 font-family:  Arial, Helvetica , sans-serif;
+     padding:25px;
+     margin-top:320px;
+     margin-left: 150px;
+     width:980px;
+
+	}
 
 
+.article {
 
-
-}
-
-
-#aside {
-     background-color: #ebebeb;
-     height:250px;
-     
-     margin-left: 10px;
-
-}
-	
-
-#container {
-    background-color:#777;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	height:250px;
-	width: 800px;
-	
-
-}
-
-article {
-     background-color:#777;
-     margin:10px;
-     height:120px;
+  width:520px;
+  background-color:#777;
+  color:#ebebeb;
+  height:200px;
+  padding-top: 10px;
+  margin-left:10px;
+  
+  
 
 }
 
+.hs {
 
-footer {
-	
+	width:460px;
 	background-color: #ebebeb;
-	padding:30px;
-	margin-bottom: 10px;
-	width: 800px;
+	margin-top:30px;
+	color: #777;
+	padding: 1px;
+	margin-left:30px;
+}
 
+.p {
+
+	width:460px;
+	background-color: #ebebeb;
+	color: #777;
+	margin-top:10px;
+	padding: 1px;
+	margin-left:30px;
 }
